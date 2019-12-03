@@ -26,7 +26,7 @@ some Advisor/Team Leader users and some dummy client data. If you'd like to have
 ### Clone the repo
 
 ```
-git clone https://github.com/wearefuturegov/ways-into-work.git
+git clone https://github.com/wearefuturegov/ways-into-work-copy.git
 cd ways-into-work
 ```
 
