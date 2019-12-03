@@ -27,7 +27,7 @@ some Advisor/Team Leader users and some dummy client data. If you'd like to have
 
 ```
 git clone https://github.com/wearefuturegov/ways-into-work-copy.git
-cd ways-into-work
+cd ways-into-work-copy
 ```
 
 ### Install dependencies
